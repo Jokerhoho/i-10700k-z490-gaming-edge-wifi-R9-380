@@ -1,2 +1,2 @@
-# i-10700k-z490-gaming-edge-wifi-R9-380
+# i7-10700k_z490-gaming-edge-wifi_R9-380
 测试没问题，正常使用中...
